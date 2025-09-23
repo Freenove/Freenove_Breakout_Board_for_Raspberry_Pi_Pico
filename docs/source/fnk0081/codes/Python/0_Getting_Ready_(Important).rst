@@ -437,7 +437,7 @@ Click "Run" and the LED on Raspberry Pi Pico will blink periodically.
 .. image:: ../_static/imgs/0_Getting_Ready_(Important)/Chapter00_71.png
     :align: center
 
-07. Paste the Sticker on the Breadboard
+0.7 Paste the Sticker on the Breadboard
 ************************************************
 
 It is not difficult to use the Pico. However, officially, the pin functions are printed on the back of the board, which makes it inconvenient to use. To help users finish each project in the tutorial faster and easier, we provide stickers of the pin functions as follows:
