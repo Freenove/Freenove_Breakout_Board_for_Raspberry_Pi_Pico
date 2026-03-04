@@ -80,7 +80,7 @@ Pico's on-board LED lights on and off every 1s, flashing cyclically.
 
 The following is the program code:
 
-.. literalinclude:: ../../../freenove_Kit/C/Sketches/Sketch_01.1_Blink/Sketch_01.1_Blink.ino
+.. literalinclude:: ../../../Sketch_01.1_Blink/Sketch_01.1_Blink.ino
     :linenos:
     :language: c
     :dedent:

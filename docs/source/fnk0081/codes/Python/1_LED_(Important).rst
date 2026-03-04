@@ -104,7 +104,7 @@ Disconnect Raspberry Pi Pico USB cable and reconnect it, LED on Pico will blink 
 
 The following is the program code:
 
-.. literalinclude:: ../../../freenove_Kit/Python/Python_Codes/01.1_Blink/01.1_Blink.py
+.. literalinclude:: ../../../01.1_Blink/01.1_Blink.py
     :linenos:
     :language:  python
     :dedent:
