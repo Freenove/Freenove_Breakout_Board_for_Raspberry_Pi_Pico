@@ -35,3 +35,4 @@ This product provides the following online documents.
 
    fnk0081/codes/C.rst
    fnk0081/codes/Python.rst
+   fnk0081/codes/Design_Explanation.rst
